@@ -1,18 +1,21 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ProvestUniformes/ProvestUniformes/refs/heads/main/40-anos-provest-04.jpg" />
+
 # 🏭 Provest Uniformes
 
-### Tecnologia • Infraestrutura • Inovação • Governança • Transformação Digital
+### Tecnologia • Infraestrutura • Governança • Inovação • Transformação Digital
 
 <p>
 Repositório oficial de documentação técnica, projetos, arquiteturas, procedimentos e iniciativas de Tecnologia da Informação da Provest Uniformes.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/TI-Corporativa-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Provest-40_Anos-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TI-Corporativa-darkblue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Infraestrutura-Enterprise-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20Containers-Docker%20%7C%20Kubernetes-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Governan%C3%A7a-TI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-365-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 </div>
